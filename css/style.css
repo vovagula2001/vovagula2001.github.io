@@ -42,6 +42,7 @@ margin-top: 33px;
 -webkit-transition: 0,2s;
 -o-transition: 0,2s ;
 transition: 0,2s;
+cursor:pointer;
 
 }
 header small{
@@ -237,3 +238,7 @@ margin-top: 0;
     background:#00b557 ;  
     color: #fff; 
    } 
+.epam-img{
+	width: 457px;
+    height:  300px;
+}
